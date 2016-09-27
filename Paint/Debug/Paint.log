@@ -1,0 +1,5 @@
+﻿  PaintGraphics.cpp
+c:\users\gs\documents\visual studio 2015\projects\paint\paint\paintgraphics.cpp(73): warning C4101: hMainWnd: неиспользованная локальная переменная
+c:\users\gs\documents\visual studio 2015\projects\paint\paint\paintgraphics.cpp(749): warning C4129: O: неизвестная escape-последовательность
+  Paint.vcxproj -> C:\Users\gs\Documents\Visual Studio 2015\Projects\Paint\Debug\Paint.exe
+  Paint.vcxproj -> C:\Users\gs\Documents\Visual Studio 2015\Projects\Paint\Debug\Paint.pdb (Full PDB)
